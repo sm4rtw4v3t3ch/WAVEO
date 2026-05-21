@@ -3,7 +3,7 @@
 Wave  is a modern  player for Android TV, Fire TV, and Android mobile devices. 
 It is designed for users who want a fast, polished, and highly customizable experience for live TV, movies, and series using their own playlists.
 
-> Wave is a player only. It does **not** provide channels, playlists, or content subscriptions. Users must import their own legal content.
+> Wave is a player only. It does **not** provide channels, playlists, or content subscriptions. Users must import their own legal content. You can find legal playlists in this repo : https://github.com/iptv-org/iptv#legal
 
 ## Available Versions
 
