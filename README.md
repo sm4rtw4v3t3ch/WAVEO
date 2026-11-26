@@ -47,24 +47,20 @@ WAVEO includes a free experience for core playback and navigation, while Premium
 - My WAVEO premium features
 - Advanced convenience tools across the app
 
-A 14-day Premium trial is available. It does not trigger an automatic charge unless the user voluntarily subscribes. 
-N.B:During the free trial, Cloud Sync and Backup / Restore are not active.
+A 14-day Premium free trial is available. It does not trigger an automatic charge unless the user voluntarily subscribes. 
+N.B:During the free trial, Cloud Sync and Backup / Restore features are not active.
 
 ## Pricing for premium access
 
-TV version installed via Downloader / GitHub release: `€19.99 lifetime`
+TV version installed via Downloader / GitHub release: `€24.99 lifetime`
 The prices may change over time.
 
 ### Device activation + How to buy premium
 
 - One TV Premium code gives access to up to **5 devices**
 - Users can purchase one or multiple codes if needed through the Companion app: 
-  [Link](https://github.com/sm4rtw4v3t3ch/WAVEO_COMPANION/releases/download/1_0_0/WAVEO-companion-1.0.0.apk)
-
-
-### Alternative Payment
-
-Payments on the website will be available soon. Stay tuned!
+  [Link](https://github.com/sm4rtw4v3t3ch/WAVEO_COMPANION/releases)
+or the website (www.waveo.tv)
 
 ## Disclaimer
 
