@@ -61,6 +61,7 @@ The prices may change over time.
 - Users can purchase one or multiple codes if needed through the Companion app: 
   [Link](https://github.com/sm4rtw4v3t3ch/WAVEO_COMPANION/releases)
 or the website (www.waveo.tv)
+More info: https://www.waveo.tv/en/docs/my-wave-premium#get-a-new-code
 
 ## Disclaimer
 
